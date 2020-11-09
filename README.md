@@ -1,16 +1,33 @@
-### Hi there 👋
+## FullStack Javascript Developer, Functional Programming enthusiast.
 
-<!--
-**MarcinMiler/marcinmiler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Currently focus
 
-Here are some ideas to get you started:
+- Kubernetes
+- Haskell
+- Scala
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technology Stack
+
+### Frontend
+
+- Javascript
+- Typescript
+- React, Vue, Elm, PureScript
+- Testing: unit/e2e (jest, chai, cypress)
+- GraphQL
+- Libraries(Redux, mobx, FP-TS, Ramda, RxJs)
+
+### Backend
+
+- Node.js (express, nestjs, marblejs)
+- REST Api
+- GraphQL
+- Microservices
+- SQL (postgresql)
+- Rabbitmq
+
+### Devops
+
+- Docker
+- Docker-compose
+- Kubernetes
